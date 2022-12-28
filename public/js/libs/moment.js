@@ -500,7 +500,7 @@
             }
         }
 
-        return normalizedInput;
+        return normalized;
     }
 
     var priorities = {};
